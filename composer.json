@@ -1,6 +1,6 @@
 {
-    "name": "larakit/lk-verstak",
-    "description": "[Larakit] ВЕРСТАК - рабочий стол верстальщика",
+    "name": "larakit/ng-cabinet",
+    "description": "[Larakit] кабинет пользователя и администратора",
     "version": "5.0.0",
     "keywords": [
         "laravel",
