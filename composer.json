@@ -1,0 +1,33 @@
+{
+    "name": "larakit/lk-verstak",
+    "description": "[Larakit] ВЕРСТАК - рабочий стол верстальщика",
+    "version": "5.0.0",
+    "keywords": [
+        "laravel",
+        "laravel 5",
+        "larakit"
+    ],	
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com"
+        }
+    ],
+    "require": {
+        "larakit/sf-angular-larakit": "*",
+        "larakit/lk-route": "*",
+        "larakit/lk-page": "*",
+        "larakit/lk-html": "*",
+        "larakit/lk-twig": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Larakit\\NgCabinet\\": "src/NgCabinet"
+        },
+        "files": [
+            "src/init.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
