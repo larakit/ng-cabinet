@@ -16,6 +16,7 @@
     ],
     "require": {
         "larakit/sf-angular-larakit": "*",
+        "larakit/sf-adminlte": "*",
         "larakit/lk-route": "*",
         "larakit/lk-page": "*",
         "larakit/lk-html": "*",
